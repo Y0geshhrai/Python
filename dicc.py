@@ -1,4 +1,5 @@
-        #allows to associate something with something else
+#Dictonary
+#allows to associate something with something else
 #variables(students)
 students = {"yogs": "ktm" ,
             "harry": "ktm",
