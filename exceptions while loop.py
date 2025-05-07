@@ -43,6 +43,6 @@ def get_int():
         try:
           return int(input("what's the value of x? "))
         except ValueError:
-            print("x is not an integer")
+            print("x is not an integer") #or use pass keyword without print
 
 main()
